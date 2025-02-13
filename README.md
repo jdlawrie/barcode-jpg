@@ -10,5 +10,5 @@ barcodesite.com/barcode-12342.jpg will generate a barcode for 12342
 barcodesite.com/barcode-12342_200.jpg will generate a barcode for 12342 but bigger.
 
 ## Demo:
-https://images.silvermouse.net/barcode/barcode-SILVERMOUSE.jpg
+https://images.silvermouse.net/barcode/barcode-SILVERMOUSE.jpg  
 https://images.silvermouse.net/barcode/barcode-SILVERMOUSE_200.jpg
