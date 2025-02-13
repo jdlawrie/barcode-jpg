@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^/barcode-([0-9A-Z\ \-.\$+\%]+)(?:_(\d+))?\.jpg$ barcode.php?c=$1&s=$2 [QSA,L]
