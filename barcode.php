@@ -1,7 +1,7 @@
 <?php
 
 header('Content-Type: image/png');
-$code = $_GET['c'];
+$code = strtoupper($_GET['c']);
 $size = $_GET['s'];
 if (!is_numeric($size) || $size < 1 || $size > 800) {
     $size = 36;
